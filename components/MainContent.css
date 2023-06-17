@@ -1,0 +1,7 @@
+.contenthero {
+    height: 50vh;
+}
+
+.contenthero > .content-text {
+    text-align: center;
+}
